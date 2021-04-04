@@ -1,0 +1,473 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inconsolata-Regular
+FamilyName:Inconsolata
+StyleName:Regular
+FullName:Inconsolata Regular
+MenuName:Inconsolata
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Inconsolata\Inconsolata-VariableFont_wdth,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:343368
+FileModTime:1617441944
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inconsolata
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Inconsolata\OFL.txt
+FileModTime:1617441942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Inconsolata\README.txt
+FileModTime:1617441944
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inconsolata-Black
+FamilyName:Inconsolata
+StyleName:Black
+FullName:Inconsolata Black
+MenuName:Inconsolata Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Inconsolata\static\Inconsolata-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98048
+FileModTime:1617441943
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inconsolata Black
+NameArray:0,Win,16,Inconsolata
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inconsolata-Bold
+FamilyName:Inconsolata
+StyleName:Bold
+FullName:Inconsolata Bold
+MenuName:Inconsolata
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Inconsolata\static\Inconsolata-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98260
+FileModTime:1617441943
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inconsolata
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inconsolata-Light
+FamilyName:Inconsolata
+StyleName:Light
+FullName:Inconsolata Light
+MenuName:Inconsolata Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Inconsolata\static\Inconsolata-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97956
+FileModTime:1617441943
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inconsolata Light
+NameArray:0,Win,16,Inconsolata
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inconsolata-Regular
+FamilyName:Inconsolata
+StyleName:Regular
+FullName:Inconsolata Regular
+MenuName:Inconsolata
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Inconsolata\static\Inconsolata-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97864
+FileModTime:1617441943
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inconsolata
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Playfair_Display\OFL.txt
+FileModTime:1617437158
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Italic
+FamilyName:Playfair Display
+StyleName:Italic
+FullName:Playfair Display Italic
+MenuName:Playfair Display
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Playfair_Display\PlayfairDisplay-Italic-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:324344
+FileModTime:1617437159
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+FullName:Playfair Display Regular
+MenuName:Playfair Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Playfair_Display\PlayfairDisplay-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:340520
+FileModTime:1617437159
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Playfair_Display\README.txt
+FileModTime:1617437159
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Black
+FamilyName:Playfair Display
+StyleName:Black
+FullName:Playfair Display Black
+MenuName:Playfair Display Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Playfair_Display\static\PlayfairDisplay-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:236436
+FileModTime:1617437159
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display Black
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Bold
+FamilyName:Playfair Display
+StyleName:Bold
+FullName:Playfair Display Bold
+MenuName:Playfair Display
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Playfair_Display\static\PlayfairDisplay-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:236548
+FileModTime:1617437158
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Italic
+FamilyName:Playfair Display
+StyleName:Italic
+FullName:Playfair Display Italic
+MenuName:Playfair Display
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Playfair_Display\static\PlayfairDisplay-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:227492
+FileModTime:1617437159
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+FullName:Playfair Display Regular
+MenuName:Playfair Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Playfair_Display\static\PlayfairDisplay-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:236212
+FileModTime:1617437158
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Ubuntu\UFL.txt
+FileModTime:1617441803
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Bold
+FamilyName:Ubuntu
+StyleName:Bold
+FullName:Ubuntu Bold
+MenuName:Ubuntu
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Ubuntu\Ubuntu-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:269584
+FileModTime:1617441803
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Italic
+FamilyName:Ubuntu
+StyleName:Italic
+FullName:Ubuntu Italic
+MenuName:Ubuntu
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Ubuntu\Ubuntu-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:326292
+FileModTime:1617441803
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Light
+FamilyName:Ubuntu
+StyleName:Light
+FullName:Ubuntu Light
+MenuName:Ubuntu Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Ubuntu\Ubuntu-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:361676
+FileModTime:1617441803
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Regular
+FamilyName:Ubuntu
+StyleName:Regular
+FullName:Ubuntu Regular
+MenuName:Ubuntu
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\Ubuntu\Ubuntu-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:298928
+FileModTime:1617441803
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Black
+FamilyName:Lato
+StyleName:Black
+FullName:Lato Black
+MenuName:Lato Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\lato\Lato-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114588
+FileModTime:1617439790
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Black
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+FullName:Lato Bold
+MenuName:Lato
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\lato\Lato-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:121788
+FileModTime:1617439790
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Bold
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Light
+FamilyName:Lato
+StyleName:Light
+FullName:Lato-Light
+MenuName:Lato Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\lato\Lato-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:122524
+FileModTime:1617439790
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Light
+NameArray:0,Win,1,Lato Light
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+FullName:Lato Regular
+MenuName:Lato
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\lato\Lato-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:120196
+FileModTime:1617439790
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Regular
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\shikhbhe_shobai\home_work\class_11\Font\lato\OFL.txt
+FileModTime:1617439790
+%EndFont
+
